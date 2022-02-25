@@ -18,7 +18,7 @@ public class CalcularDistancia {
 			
 			d=((x2-x1)*(x2-x1))+((y2-y1)*(y2-y1));
 			Math.sqrt(d);
-			System.out.println("a distancia entre o ponto A e o ponto B é de:"+d);
+			System.out.println("a distancia entre o ponto A e o ponto B é de: "+d);
 	
 	
 				
